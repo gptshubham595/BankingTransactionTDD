@@ -1,4 +1,4 @@
-package com.oops.bankingsystem.core
+package com.oops.bankingsystem.core.transaction
 
 import com.oops.bankingsystem.domain.entities.Transaction
 import com.oops.bankingsystem.domain.entities.TransactionType

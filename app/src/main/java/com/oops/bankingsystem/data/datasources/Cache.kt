@@ -1,4 +1,4 @@
-package com.oops.bankingsystem.data
+package com.oops.bankingsystem.data.datasources
 
 import com.oops.bankingsystem.domain.entities.Account
 
